@@ -3,10 +3,10 @@
   "description": "zTree is a multi-functional 'tree plug-ins.' based on jQuery. The main advantages of zTree includes excellent performance, flexible configuration, and the combination of multiple functions.",
   "version": "3.5.36",
   "homepage": "http://www.treejs.cn/v3/main.php",
-  "author": "zTree (https://github.com/zTree)",
+  "author": "vuezTree (https://github.com/hw37du/vue-ztree.git)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zTree/zTree.git"
+    "url": "git+https://github.com/hw37du/vue-ztree.git"
   },
   "license": "MIT",
   "engines": {
@@ -22,7 +22,7 @@
     "node"
   ],
   "bugs": {
-    "url": "https://github.com/zTree/zTree/issues"
+    "url": "https://github.com/hw37du/vue-ztree/issues"
   },
   "main": "js/jquery.ztree.all.js",
   "scripts": {
